@@ -1,0 +1,71 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+.mainbox {
+  width: 1000px;
+  height: 600px; /*will be removed later */
+  background-color: white;
+  border: 3px solid gray;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+/*  General classes for the page */
+.boldtext {
+  font-weight: 700;
+}
+
+.RightText {
+  text-align: right;
+}
+
+.centertext {
+  text-align: center;
+  display: block;
+}
+
+/* Styles for a table to display results */
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 2px;
+  color: black;
+}
+
+/* Styles for the Invoice Table */
+.InvoiceTable {
+  width: 500px;
+  margin: auto;
+}
+
+
+.BoldOrangeCenter {
+  background-color: orange;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+/* Styles for the header section */
+
+
+/* Styles for the nav section */
+
+
+/* Styles for the main / sections section */
+
+
+/* Styles for the footer section */
+
